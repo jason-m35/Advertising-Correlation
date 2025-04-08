@@ -1,2 +1,22 @@
-# Advertising-Correlation
-In-depth analysis to explore the correlation between various advertising methods and their impact on sales performance. Utilized Python and Jupyter Notebook to generate insightful charts and data visualizations, to identify the most effective advertising strategies.
+📊 Advertising vs Sales — Data Analysis Project
+
+A data science project exploring the relationship between different types of advertising (TV, radio, newspaper) and resulting sales using Python and Jupyter Notebook.
+
+Tools & Libraries
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+What It Does
+- Reads and cleans a dataset
+- Generates correlation matrices
+- Visualizes advertising effectiveness
+- Makes conclusions on best-performing ad channels
+
+
+Getting Started
+Run the notebook:
+```bash
+jupyter notebook
